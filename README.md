@@ -1,7 +1,7 @@
 Execute o programa
 
 Modo interativo (terminal):
-ruby lib/validador_cpf.rb
+ruby lib/validador_cep.rb
 
 
  Ruby 3.0+ instalado
@@ -12,7 +12,7 @@ ruby lib/validador_cpf.rb
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/seu-usuario/verificador-cep.git
-   cd verificador-cpf
+   cd verificador-cep
 2. **Instale as dependências :
    bundle install
    Execute o programa
