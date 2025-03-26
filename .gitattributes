@@ -1,0 +1,4 @@
+*.rb linguagem=ruby
+*.erb linguagem=ruby
+*.html linguagem=html
+*.js linguagem=javascript
